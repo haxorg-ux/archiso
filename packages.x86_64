@@ -22,6 +22,7 @@ diffutils
 dmidecode
 dmraid
 dnsmasq
+cachyos-keyring
 cachyos-mirrorlist
 dosfstools
 e2fsprogs
